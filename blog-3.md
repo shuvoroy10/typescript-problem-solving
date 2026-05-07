@@ -2,8 +2,7 @@
 
 ---
 
-## 1.
-Using Generic function things are controllable. We can expect the input and output data type. When it comes to handle large structure data Generic is reuseable to type safety.
+## 1. Using Generic function things are controllable. We can expect the input and output data type. When it comes to handle large structure data Generic is reuseable to type safety.
 
 ---
 
