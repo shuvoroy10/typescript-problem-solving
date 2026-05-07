@@ -6,12 +6,12 @@ In large project, the four pillars of Object-Oriented Programming—Inheritance,
 ---
 
 ### 1. Encapsulation (Hides internal details)
-with this we can show data globally using public and change it, safe data using private accessable in same class and using protect also same as private but data accessable to class and subclass.
+With this we can show data globally using public and change it, safe data using private accessable in same class and using protect also same as private but data accessable to class and subclass.
 
 ---
 
 ### 2. Inheritance (Reusability of code)
-inheritance give property from parent class . So it basically make code reusable
+Inheritance give property from parent class . So it basically make code reusable
 
 ---
 

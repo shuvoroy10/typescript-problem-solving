@@ -1,7 +1,7 @@
 ## Introduction: There are lot of benefits of using unknown compare to any.
 
 ### 1.
-When we use any and our syntax is wrong, we cen't get error when writing and it shows in runtime
+When we use any type and our syntax is wrong, we can't get error when code writing and it shows in runtime
 exp: const data: any = "next";
 data.toFixed();
 
@@ -17,4 +17,4 @@ console.log(data.toUpperCase());
 ---
 
 ## Conclusion
-any doesn't forced check type but unkbown does.
+any type doesn't forced check type but unknown you have declear type then you able to use.

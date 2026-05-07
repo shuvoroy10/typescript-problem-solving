@@ -7,9 +7,9 @@ This repository contains solution of Assignment-1 problem and some important blo
 # Project Structure
 
 
-├── solutions.ts
 ├── blog-1.md
 ├── blog-2.md
 ├── blog-3.md
 ├── blog-4.md
-└── README.md
+├── README.md
+└── solutions.ts
